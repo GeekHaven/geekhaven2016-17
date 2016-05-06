@@ -50,6 +50,7 @@
 * [Teja Vojjala](https://github.com/iit2014086)
 
 ###Members:
+* [Saurabh Mishra](https://github.com/sarkysaurabh)
 
 
 ##Graphics Wing
