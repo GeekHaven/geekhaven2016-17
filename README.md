@@ -58,7 +58,7 @@
 
 ##Graphics Wing
 ###Coordinators:
- [Shyam Naik](https://github.com/Shyamnaik)
+* [Shyam Naik](https://github.com/Shyamnaik)
 
 ###Members:
 * [Abhishek Sharma](https://github.com/littlewonder)
