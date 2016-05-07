@@ -58,6 +58,7 @@
 
 ##Graphics Wing
 ###Coordinators:
+* [Rupesh Pawar](https://github.com/Rupeshpawar007)
 
 
 ###Members:
