@@ -32,7 +32,7 @@
 
 ###Members:
 * [Priyanka Singla](https://github.com/Priyanka186)
-
+* [Ashutosh Chandra](https://github.com/Ashutosh001)
 
 ##FOSS
 ###Coordinators:
