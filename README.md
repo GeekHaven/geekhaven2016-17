@@ -51,6 +51,7 @@
 * [Teja Vojjala](https://github.com/iit2014086)
 
 ###Members:
+* [Vaibhav Bansal](https://github.com/vaibhav138)
 * [Satyarth Agrahari](https://github.com/satylogin)
 
 ##Graphics Wing
