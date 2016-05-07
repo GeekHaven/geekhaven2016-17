@@ -12,11 +12,8 @@
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
 * [Aditya Dewan](https://github.com/dewana-dewan)
-<<<<<<< HEAD
 * [Abhinav Khare](https://github.com/CosmicCoder96)
-=======
 * [Shubham Padia](https://github.com/shubham-padia)
->>>>>>> upstream/master
 
 ##App Development
 ###Coordinators:
@@ -35,7 +32,7 @@
 
 ###Members:
 * [Priyanka Singla](https://github.com/Priyanka186)
-
+* [Ashutosh Chandra](https://github.com/Ashutosh001)
 
 ##FOSS
 ###Coordinators:
@@ -57,11 +54,13 @@
 
 ###Members:
 * [Satyarth Agrahari](https://github.com/satylogin)
+* [Saurabh Mishra](https://github.com/sarkysaurabh)
 
 ##Graphics Wing
 ###Coordinators:
-
+* [Shyam Naik](https://github.com/Shyamnaik)
 
 ###Members:
+* [Abhishek Sharma](https://github.com/littlewonder)
 * [Jayesh Patil](https://github.com/Donny97)
 * [Rohan Chaudhary](https://github.com/rohanrc1997)
