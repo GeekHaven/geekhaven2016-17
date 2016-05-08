@@ -53,6 +53,7 @@
 * [Teja Vojjala](https://github.com/iit2014086)
 
 ###Members:
+* [Somya Verma](https://github.com/somya96)
 * [Satyarth Agrahari](https://github.com/satylogin)
 * [Saurabh Mishra](https://github.com/sarkysaurabh)
 
