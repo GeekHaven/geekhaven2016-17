@@ -14,6 +14,7 @@
 * [Aditya Dewan](https://github.com/dewana-dewan)
 * [Abhinav Khare](https://github.com/CosmicCoder96)
 * [Shubham Padia](https://github.com/shubham-padia)
+* [Neha Kandpal](https://github.com/13nehu)
 
 ##App Development
 ###Coordinators:
