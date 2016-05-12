@@ -44,7 +44,7 @@
 ###Members:
 * [Anujraaj Goel](https://github.com/goel42)
 * [Himanshu Shekhar](https://github.com/himanshub16)
-* [Mubaris NK](https://github.com/mubumbz)
+* [Mubaris NK](https://github.com/mubaris)
 * [M Diwakar](https://github.com/magician03)
 * [Faheem Hassan Zunjani](https://github.com/faheemzunjani)
 
