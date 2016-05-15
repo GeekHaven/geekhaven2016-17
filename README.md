@@ -55,6 +55,7 @@
 
 ###Members:
 * [Somya Verma](https://github.com/somya96)
+* [Vaibhav Bansal](https://github.com/vaibhav138)
 * [Satyarth Agrahari](https://github.com/satylogin)
 * [Saurabh Mishra](https://github.com/sarkysaurabh)
 
