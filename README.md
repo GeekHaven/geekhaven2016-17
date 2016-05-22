@@ -34,6 +34,7 @@
 ###Members:
 * [Priyanka Singla](https://github.com/Priyanka186)
 * [Ashutosh Chandra](https://github.com/Ashutosh001)
+* [Jayesh Chaudhari](https://github.com/godfrey17897)
 
 ##FOSS
 ###Coordinators:
