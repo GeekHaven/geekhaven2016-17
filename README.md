@@ -66,3 +66,9 @@
 * [Abhishek Sharma](https://github.com/littlewonder)
 * [Jayesh Patil](https://github.com/Donny97)
 * [Rohan Chaudhary](https://github.com/rohanrc1997)
+
+##Tesla
+###Coordinators:
+
+###Members:
+* [Naga Nikhil](https://github.com/Naga-Nikhil)
