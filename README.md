@@ -8,6 +8,7 @@
 ##Web Development
 ###Coordinators:
 * [Aditya Kumawat](https://github.com/aditya19496)
+* [Yogesh Gupta](https://github.com/cryzek)
 
 ###Members:
 * [Chaitanya Yadav](https://github.com/BelieveC)
