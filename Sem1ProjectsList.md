@@ -6,3 +6,9 @@ Projects for Freshers
 
 * Rails TodoApp
 * Rails LostFoundApp
+
+[Neha Kandpal] (https://github.com/13nehu/)
+--------------------------
+
+*Tale Wiki ( wikipedia for tales or recipes)
+*Dance website to share videos and stuff.
