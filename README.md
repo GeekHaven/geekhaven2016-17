@@ -23,6 +23,7 @@
 * [Satyam Poddar](https://github.com/flare505) 
 
 ###Members:
+* [Naveen Kumar Shukla](https://github.com/naveenshukla)
 * [Affan Ahmed Fahmi](https://github.com/anonymous-ME)
 * [Sayantan Chatterjee](https://github.com/coderIlluminatus)
 * [Chinmoy Das](https://github.com/chinmoy159-1) 
