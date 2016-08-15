@@ -9,3 +9,7 @@ FOSS Wing
 ----------------------------------
 * [Peer to Peer Messaging Service](#)
 * [Discussion forum for problems faced by students of IIITA](#)
+
+App Development Wing
+----------------------------------
+* [IIITA News Feed](#)
