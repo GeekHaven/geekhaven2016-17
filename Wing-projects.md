@@ -7,7 +7,8 @@ Web-Development Wing
 
 FOSS Wing
 ----------------------------------
-* [Peer to Peer Messaging Service](#)
+* [Peer to Peer Messaging Service](https://github.com/magician03/P2P-Chat)
+* [Attendance Portal for GeekHaven Workshops](https://github.com/faheemzunjani/Attendance-portal-workshops)
 * [Discussion forum for problems faced by students of IIITA](#)
 
 App Development Wing
